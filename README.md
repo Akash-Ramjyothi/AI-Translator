@@ -1,4 +1,4 @@
-<h1 align="center">Online Shopping Portal</h1>
+<h1 align="center">AI Translator</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54114888/163600396-989412f3-93a5-4755-83e6-0add2b305093.png" width="180" height="180">
